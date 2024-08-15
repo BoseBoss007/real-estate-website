@@ -1,0 +1,1 @@
+Developed a comprehensive three-tier web application utilizing HTML, CSS, and JavaScript for the front-end, PHP for the middle-tier logic, and MySQL for the back-end database, enabling seamless user authentication, property listing, and owner contact functionalities.
